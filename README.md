@@ -1,4 +1,3 @@
-# pingpong
 # Scrabble Score Checker
 
 #### A program that allows users to input a word and determine its raw Scrabble score, assuming no special tiles. 3/6/19
@@ -7,7 +6,7 @@
 
 ## Description
 
-A website created with JAVASCRIPT and HTML where a user can submit a word and determine pingpong.
+A website created with C# and HTML where a user can submit a word and determine its raw Scrabble score.
 
 
 ### Specs
@@ -22,16 +21,17 @@ A website created with JAVASCRIPT and HTML where a user can submit a word and de
 
 ## Setup/Installation Requirements
 
-1. 
-2. 
-3. Clone this repository.
-4. 
-5. 
+1.
+2.
+3.
+4.
+5.
 
 ## Known Bugs
 * No known bugs at this time.
 
 ## Technologies Used
+
 
 * HTML
 
