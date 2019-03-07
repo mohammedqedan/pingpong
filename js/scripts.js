@@ -1,11 +1,12 @@
 //business logic
 var checkNumber = function(number) {
-    if (number % 3 === 0){
-      return "ping";
+  debugger;
+    if (number % 15 === 0){
+      return "pingpong";
   } else if  (number % 5 === 0){
-      return "pong"
-  } else if (number % 15 === 0){
-      return "pingpong"
+      return "pong";
+  } else if (number % 3 === 0){
+      return "ping";
   } else {
       return false;
   }
@@ -15,9 +16,10 @@ $(document).ready(function() {
   $("form#Pingpong").submit(function(event) {
     event.preventDefault();
     var number = parseInt($("input#number").val());
-    var result = checkNumber(number);
+    var pValue = checkNumber(number);
     {
       $(".number").text(number);
+      $(".pValue").text(pValue);
     }
 
 
