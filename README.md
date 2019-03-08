@@ -1,6 +1,6 @@
 # Ping Pong
 
-#### A program that allows users to input a word and determine its raw Scrabble score, assuming no special tiles. 3/6/19
+#### A program that allows users to input a word and determine its raw pingpong, assuming no special tiles. 3/6/19
 
 #### By **Mohammed Qedan**
 
