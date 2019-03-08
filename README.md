@@ -6,7 +6,7 @@
 
 ## Description
 
-A website created with C# and HTML where a user can submit a word and determine its raw Scrabble score.
+A website created with Javascript and HTML where a user can submit a number and determine its ping, pong or pingpong.
 
 ## Setup/Installation Requirements
 
