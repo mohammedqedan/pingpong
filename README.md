@@ -13,7 +13,7 @@ A website created with C# and HTML where a user can submit a word and determine 
 ## Setup/Installation Requirements
 
 _Clone the repo and open up index.html to view in your web browser._
-_Link to site on gh-pages coming soon but it will be: https://mohammedqedan.github.io/pingpong_
+_Link to site on gh-pages coming soon but it will be: https://github.com/mohammedqedan/pingpong
 
 ## Specifications
 
