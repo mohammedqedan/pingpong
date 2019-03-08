@@ -1,6 +1,6 @@
 # Ping Pong
 
-#### A program that allows users to input a word and determine its raw pingpong, assuming no special tiles. 3/6/19
+#### A program that allows users to input a number and determine if it is ping, pong or pingpong , assuming nothing too long. 3/8/19
 
 #### By **Mohammed Qedan**
 
