@@ -8,8 +8,6 @@
 
 A website created with C# and HTML where a user can submit a word and determine its raw Scrabble score.
 
-
-### Specs
 ## Setup/Installation Requirements
 
 _Clone the repo and open up index.html to view in your web browser._
@@ -35,14 +33,6 @@ _Link to site on gh-pages coming soon but it will be: https://github.com/mohamme
 * Behavior: A user that enters number larger than 1 followed by a new number sees accurate results after each new submit
   * **Example input:** enter 7, click submit, enter 3, click submit...etc
   * **Example output:** after first submit 1,2,ping,4,pong,ping,7 shows. User hits submit and old list clears and 1,2,ping appars...
-
-## Setup/Installation Requirements
-
-1.
-2.
-3.
-4.
-5.
 
 ## Known Bugs
 * No known bugs at this time.
