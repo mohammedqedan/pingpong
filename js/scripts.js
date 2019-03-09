@@ -11,9 +11,10 @@ var checkNumber = function(number) {
   }
 };
 //operations
-$(document).ready(function() {
+$(function() {
   $("form#Pingpong").submit(function(event) {
     event.preventDefault();
+    $(".number").text("");
     var number = parseInt($("input#number").val());
     for (var i = 1; i <= number; i++) {
       var result = checkNumber(i);
